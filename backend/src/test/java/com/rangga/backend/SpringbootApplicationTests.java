@@ -1,4 +1,4 @@
-package com.digi.rangga;
+package com.rangga.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
